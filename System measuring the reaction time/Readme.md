@@ -6,7 +6,7 @@ measured the patients' reaction time. The device should work in such a way that
 it measured the average, smallest, highest reaction time value and quantity
 mistakes made during the test.
 
-Project developed by Damian Śnieguła, Marcin Szołtysek for Silesian University of Technology in Gliwice, Poland.
+Project developed by Damian Śnieguła and Marcin Szołtysek for Silesian University of Technology in Gliwice, Poland.
 
 # Software development
 To develop firmware for this project following tools were used:
