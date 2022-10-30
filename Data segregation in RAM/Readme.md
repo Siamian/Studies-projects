@@ -1,4 +1,4 @@
-# Data segregation in RAM memory
+# Data segregation in RAM
 
 # Brief
 The purpose of this project is to design a device for organizing the results
